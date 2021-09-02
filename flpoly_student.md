@@ -1,4 +1,4 @@
-## Alexia Belden
+## Alexia (Lexi) Belden
 
 ### Fall s021
 

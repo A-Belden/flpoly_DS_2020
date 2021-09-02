@@ -1,23 +1,23 @@
-## First Name Last Name
+## Alexia Belden
 
-### Spring 2020 
+### Fall s021
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- SLS1901
 
-- Course 2
+- COP2034
 
-- Course 3
+- MAC1147
 
-- Course 4
+- COP2073
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Livestock
 
-- Thing 2
+- volleyball, at least use to be
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- 

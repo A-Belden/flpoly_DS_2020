@@ -15,7 +15,7 @@ Data Science student at [Florida Polytechnic University](https://www.floridapoly
 **Hobbies:**
 
 
-|###Prefix	|###Number	|###Name	|###Credit|
+| ### Prefix	|### Number	|### Name	|### Credit|
 |:---:		|:---:		|:---:		|:---:	  |
 |**SLS**	|**1901**	|_Foundations for Academic Success_|0|
 |**COP**	|**2034**	|_Introduction to programming using Python_|3|
